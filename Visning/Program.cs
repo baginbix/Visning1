@@ -2,7 +2,7 @@
 
         string s = "Tim";
 
-        if(s == "Tim")
+        if(s == "TIM")
                 Console.WriteLine("Personen heter Tim");
         else
                 Console.WriteLine("Personsen heter inte TIm");
