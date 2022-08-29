@@ -1,0 +1,15 @@
+C:\Users\Elev\Documents\Programmering\C#\Visning\bin\Debug\net6.0\Visning.exe
+C:\Users\Elev\Documents\Programmering\C#\Visning\bin\Debug\net6.0\Visning.deps.json
+C:\Users\Elev\Documents\Programmering\C#\Visning\bin\Debug\net6.0\Visning.runtimeconfig.json
+C:\Users\Elev\Documents\Programmering\C#\Visning\bin\Debug\net6.0\Visning.dll
+C:\Users\Elev\Documents\Programmering\C#\Visning\bin\Debug\net6.0\Visning.pdb
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\Visning.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\Visning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\Visning.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\Visning.AssemblyInfo.cs
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\Visning.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\Visning.dll
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\refint\Visning.dll
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\Visning.pdb
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\Visning.genruntimeconfig.cache
+C:\Users\Elev\Documents\Programmering\C#\Visning\obj\Debug\net6.0\ref\Visning.dll
